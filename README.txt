@@ -8,6 +8,8 @@ senior citizens. The due date should be paid monthly.
 The details of those who forgot to pay the due money will be viewed by the bank officials. If you forget your password it can be retrieved by knowing the
 keyword you have given while creating your account.
 
+This reduces the human effort and really very easy to use
+
 This program works in DEV-C++ version 5.8.3.
 
 Screenshots are attached in this folder
